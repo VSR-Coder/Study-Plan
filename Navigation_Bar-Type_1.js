@@ -1,5 +1,5 @@
 // Property for Animated Hamburger Menu Start
-function myFunction(x) {
-  x.classList.toggle("change");
+function animateBars(x) {
+  x.classList.toggle("animateBars");
 }
 // Property for Animated Hamburger Menu End
