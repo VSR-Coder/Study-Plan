@@ -1,1 +1,46 @@
-// Stylesheet for Navigation_Bar-Type_1
+/* Stylesheet for Navigation_Bar-Type_1 */
+
+/* Properties Of Naviagation Bar Start */
+/* *Navigation_Bar-Type-1 {} */
+/* Properties Of Navigation Logo Start */
+/* *NBT1-Logo {} */
+/* *NBT1-Logo > img {} */
+/* Properties Of Navigation Logo End */
+/* Properties Of Navigation Title Start */
+/* *NBT1-Title {} */
+/* *NBT1-Title > span {} */
+/* Properties Of Navigation Title Start */
+/* Properties Of Dropdown Box Start */
+/* *NBT1-DropdownBox {} */
+/* Properties Of Dropdowns Start */
+/* .NBT1-Dropdown {} */
+/* *NBT1-Dropdown_1 {} */
+/* *NBT1-Dropdown_2 {} */
+/* *NBT1-Dropdown_3 {} */
+/* *NBT1-Dropdown_4 {} */
+/* *NBT1-Dropdown_5 {} */
+/* Properties Of Dropdowns End */
+/* Properties Of Dropdown Titles Start */
+/* .NBT1-Dropdown > span:nth-child(1) {} */
+/* Properties Of Dropdown Titles End */
+/* Properties Of Dropdown Toggles Start */
+/* .NBT1-Dropdown_Toggle {} */
+/* *NBT1-DropdownN1_Toggle {} */
+/* *NBT1-DropdownN2_Toggle {} */
+/* *NBT1-DropdownN3_Toggle {} */
+/* *NBT1-DropdownN4_Toggle {} */
+/* *NBT1-DropdownN5_Toggle {} */
+/* Properties Of Dropdown Toggles End */
+/* Properties Of Submenu Start */
+/* .NBT1-Dropdown_SubMenu {} */
+/* *NBT1-Dropdown_1_SubMenu {} */
+/* *NBT1-Dropdown_2_SubMenu {} */
+/* *NBT1-Dropdown_3_SubMenu {} */
+/* *NBT1-Dropdown_4_SubMenu {} */
+/* *NBT1-Dropdown_5_SubMenu {} */
+/* Properties Of Submenu End */
+/* Properties Of Submenu Link Start */
+/* .NBT1-Dropdown_SubMenu > a {} */
+/* Properties Of Submenu Link End */
+/* Properties Of Dropdown Box End */
+/* Properties Of Naviagation Bar End */
