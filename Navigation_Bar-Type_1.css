@@ -44,9 +44,10 @@
 /* Properties Of Submenu Link End */
 /* Properties Of Dropdown Box End */
 /* Properties Of Animated Hamburger Menu Start */
-/* *NBT1-Animated_Menu_Box {} */
-/* *MenuBar1 {} */
-/* *MenuBar2 {} */
-/* *MenuBar3 {} */
+*NBT1-Animated_Menu_Box {display: inline-block; cursor: pointer; user-select: none;}
+#MenuBar1, #MenuBar2, #MenuBar3 {  width: 35px; height: 5px; background-color: #333; margin: 6px 0; transition: 0.4s;}
+.Animate_MenuBar *MenuBar1 {transform: translate(0, 11px) rotate(-45deg);}
+.Animate_MenuBar *MenuBar2 {opacity: 0;}
+.Animate_MenuBar *MenuBar3 {transform: translate(0, -11px) rotate(45deg);}
 /* Properties Of Animated Hamburger Menu End */
 /* Properties Of Naviagation Bar End */
