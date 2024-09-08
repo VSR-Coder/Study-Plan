@@ -1,13 +1,13 @@
 /* Stylesheet for Navigation_Bar-Type_1 */
 
 /* Properties Of Naviagation Bar Start */
-/* *Navigation_Bar-Type-1 {} */
+*Navigation_Bar-Type-1 {width: 100vw; height: 72px; display: flex; overflow: hidden; align-items: center; justify-content: space-between;}
 /* Properties Of Navigation Logo Start */
-/* *NBT1-Logo {} */
-/* *NBT1-Logo > img {} */
+*NBT1-Logo {width: 60px; height: 60px; margin: 0px 0px 0px 5px; display: flex; align-items: center; justify-content: center;}
+*NBT1-Logo > img {width: 100%; height: 100%; border-radius: 50%;}
 /* Properties Of Navigation Logo End */
 /* Properties Of Navigation Title Start */
-/* *NBT1-Title {} */
+*NBT1-Title {color: rgb(3, 182, 252); font-family: sans-serif;}
 /* *NBT1-Title > span {} */
 /* Properties Of Navigation Title Start */
 /* Properties Of Dropdown Box Start */
