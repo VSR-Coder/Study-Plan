@@ -44,27 +44,10 @@
 /* Properties Of Submenu Link End */
 /* Properties Of Dropdown Box End */
 /* Properties Of Animated Hamburger Menu Start */
-.NBT1-Animated_Menu {
-  display: inline-block;
-  cursor: pointer;
-}
-
-.MenuBar1, .MenuBar2, .MenuBar3 {
-  width: 35px;
-  height: 5px;
-  background-color: #333;
-  margin: 6px 0;
-  transition: 0.4s;
-}
-
-.animateBars .MenuBar1 {
-  transform: translate(0, 11px) rotate(-45deg);
-}
-
+.NBT1-Animated_Menu {display: inline-block; cursor: pointer;}
+.MenuBar1, .MenuBar2, .MenuBar3 {width: 35px; height: 5px; background-color: #333; margin: 6px 0; transition: 0.4s;}
+.animateBars .MenuBar1 {transform: translate(0, 11px) rotate(-45deg);}
 .animateBars .MenuBar2 {opacity: 0;}
-
-.animateBars .MenuBar3 {
-  transform: translate(0, -11px) rotate(45deg);
-}
+.animateBars .MenuBar3 {transform: translate(0, -11px) rotate(45deg);}
 /* Properties Of Animated Hamburger Menu End */
 /* Properties Of Naviagation Bar End */
