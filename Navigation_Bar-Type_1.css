@@ -1,0 +1,53 @@
+/* Stylesheet for Navigation_Bar-Type_1 */
+
+/* Properties Of Naviagation Bar Start */
+*Navigation_Bar-Type-1 {width: 100vw; height: 72px; display: flex; overflow: hidden; align-items: center; justify-content: space-between;}
+/* Properties Of Navigation Logo Start */
+*NBT1-Logo {width: 60px; height: 60px; margin: 0px 0px 0px 5px; display: flex; align-items: center; justify-content: center;}
+*NBT1-Logo > img {width: 100%; height: 100%; border-radius: 50%;}
+/* Properties Of Navigation Logo End */
+/* Properties Of Navigation Title Start */
+*NBT1-Title {color: rgb(3, 182, 252); font-family: sans-serif;}
+/* *NBT1-Title > span {} */
+/* Properties Of Navigation Title Start */
+/* Properties Of Dropdown Box Start */
+/* *NBT1-DropdownBox {} */
+/* Properties Of Dropdowns Start */
+/* .NBT1-Dropdown {} */
+/* *NBT1-Dropdown_1 {} */
+/* *NBT1-Dropdown_2 {} */
+/* *NBT1-Dropdown_3 {} */
+/* *NBT1-Dropdown_4 {} */
+/* *NBT1-Dropdown_5 {} */
+/* Properties Of Dropdowns End */
+/* Properties Of Dropdown Titles Start */
+/* .NBT1-Dropdown > span:nth-child(1) {} */
+/* Properties Of Dropdown Titles End */
+/* Properties Of Dropdown Toggles Start */
+/* .NBT1-Dropdown_Toggle {} */
+/* *NBT1-DropdownN1_Toggle {} */
+/* *NBT1-DropdownN2_Toggle {} */
+/* *NBT1-DropdownN3_Toggle {} */
+/* *NBT1-DropdownN4_Toggle {} */
+/* *NBT1-DropdownN5_Toggle {} */
+/* Properties Of Dropdown Toggles End */
+/* Properties Of Submenu Start */
+/* .NBT1-Dropdown_SubMenu {} */
+/* *NBT1-Dropdown_1_SubMenu {} */
+/* *NBT1-Dropdown_2_SubMenu {} */
+/* *NBT1-Dropdown_3_SubMenu {} */
+/* *NBT1-Dropdown_4_SubMenu {} */
+/* *NBT1-Dropdown_5_SubMenu {} */
+/* Properties Of Submenu End */
+/* Properties Of Submenu Link Start */
+/* .NBT1-Dropdown_SubMenu > a {} */
+/* Properties Of Submenu Link End */
+/* Properties Of Dropdown Box End */
+/* Properties Of Animated Hamburger Menu Start */
+.NBT1-Animated_Menu {display: inline-block; cursor: pointer;}
+.MenuBar1, .MenuBar2, .MenuBar3 {width: 35px; height: 5px; background-color: #333; margin: 6px 0; transition: 0.4s;}
+.animateBars .MenuBar1 {transform: translate(0, 11px) rotate(-45deg);}
+.animateBars .MenuBar2 {opacity: 0;}
+.animateBars .MenuBar3 {transform: translate(0, -11px) rotate(45deg);}
+/* Properties Of Animated Hamburger Menu End */
+/* Properties Of Naviagation Bar End */
